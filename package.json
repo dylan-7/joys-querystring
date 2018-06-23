@@ -2,7 +2,7 @@
   "name": "joys-querystring",
   "description": "A querystring parser that supports nesting and arrays, with a depth limit",
   "homepage": "https://github.com/dylan-7/joys-querystring",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dylan-7/joys-querystring.git"
@@ -19,7 +19,7 @@
   "files": [
     "dist",
     "lib",
-    "test"
+    "types"
   ],
   "types": "./types/index.d.ts",
   "dependencies": {},
