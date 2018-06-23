@@ -1,8 +1,8 @@
 {
-    "name": "qs",
-    "repository": "hapijs/qs",
+    "name": "joys-querystring",
+    "repository": "dylan-7/joys-querystring",
     "description": "query-string parser / stringifier with nesting support",
-    "version": "6.5.0",
+    "version": "1.1.5",
     "keywords": ["querystring", "query", "parser"],
     "main": "lib/index.js",
     "scripts": [
@@ -11,5 +11,5 @@
         "lib/stringify.js",
         "lib/utils.js"
     ],
-    "license": "BSD-3-Clause"
+    "license": "ISC"
 }
